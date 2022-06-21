@@ -79,8 +79,7 @@ sh``` in your shell.
 The output after the program is executed should look something like this:                                                               
 ```                                                                                                                                     
 $|                                                                                                                                      
-```                                                                                                                                     
-contents.                                                                                                                               
+```                                                                                                                                                                                                                                                               
 ## Function Prototypes:                                                                                                                 
                                                                                                                                         
 Brief description of functions contained in project:
